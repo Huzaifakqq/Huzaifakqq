@@ -10,7 +10,7 @@
 
 <!-- NAME / TAGLINE - animated typing -->
 <a href="https://github.com/Huzaifakqq">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=FF7A1A&center=true&vCenter=true&width=560&lines=Huzaifa+Kashif;Flutter+Developer;Building+RAWAAN" alt="typing banner">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=FF7A1A&center=true&vCenter=true&width=560&lines=Huzaifa+Kashif;Flutter+Developer;Full-Stack+Builder;Product+Engineer" alt="Huzaifa Kashif - Flutter Developer, Full-Stack Builder, Product Engineer">
 </a>
 
 <br>
@@ -33,13 +33,16 @@
 $ cat about.txt
 ```
 
-Hi, I'm **Huzaifa Kashif**. I build Flutter apps and ASP.NET backends for a living,
-and I run a clothing brand on the side because one obsession was never enough.
+Hi, I'm **Huzaifa Kashif** — a full-stack product developer focused on building real-world digital experiences with **Flutter**, **ASP.NET**, and **SQL Server**.
 
-- Currently building **[RAWAAN](https://github.com/Huzaifakqq/RAWAAN)** — a corridor-matching vanpool app for Islamabad/Rawalpindi
-- Founder of **Chapter Dresses** — a women's clothing brand across Instagram and Facebook
-- Learning **scalable backend architecture & AI-powered content workflows**
-- Fun fact: **I once ran a 17K-follower Urdu poetry page before pivoting it into a dev journal**
+I enjoy turning ideas into usable products, from mobile app experiences to backend systems, authentication flows, and database-driven features.
+
+- Currently building **[RAWAAN](https://github.com/Huzaifakqq/RAWAAN)** — a corridor-matching vanpool platform for Islamabad/Rawalpindi
+- Building full-stack systems for marketplace, travel, food, and SaaS-style products
+- Passionate about **clean architecture**, **product thinking**, and **scalable user experiences**
+- Founder of **Chapter Dresses** — a women’s clothing brand across Instagram and Facebook
+- Open to **product building, freelance work, and software collaborations**
+- Fun fact: I used to run a 17K-follower Urdu poetry page before shifting into a developer-first journey
 
 <br>
 
